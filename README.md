@@ -6,6 +6,7 @@ The provided function takes two arguments (input_path, output_path) and thee out
 
 # Files
 *  Notebook.ipynp: Contains the main inpainting function.
+*  Notebook_TestCases.ipynp: Contains Test cases.
 *  ref.png: The reference image used to find and inpaint in the input images.
 *  input.zip: A directory containing the input images to be processed.
 
